@@ -1,0 +1,41 @@
+{
+  "version": "0.2.216",
+  "channel": "stable",
+  "files": [
+    {
+      "name": "Stru-AI-Desktop-Client-Setup-0.2.216.exe",
+      "bytes": 202961704,
+      "sha256": "55335cb989c6727346ccc8e48a63b948dc04881dd858894622b2b2c4617e1224"
+    },
+    {
+      "name": "Stru-AI-Desktop-Client-Setup-0.2.216.exe.blockmap",
+      "bytes": 213917,
+      "sha256": "de47f1ce1c19a1e550762e327cea6d6b1deb4835394196672e3c48c345b1143a"
+    },
+    {
+      "name": "Stru.AI.Desktop.Client-0.2.213-to-0.2.216-delta.exe",
+      "bytes": 18076768,
+      "sha256": "4575a4cc9b3d770101b0a555d8330e8babb11ea9387824895639eba70a77bbdf"
+    },
+    {
+      "name": "Stru.AI.Desktop.Client-0.2.214-to-0.2.216-delta.exe",
+      "bytes": 17003056,
+      "sha256": "129673b4e6b633ce7293b2843c32b86f4ff49cbd216398625d77ff2de4c71a58"
+    },
+    {
+      "name": "Stru.AI.Desktop.Client-0.2.215-to-0.2.216-delta.exe",
+      "bytes": 16993880,
+      "sha256": "79f3c5d5b892fb2677d583c4dfbc8c74631eabcb08a1194147b88571677fe887"
+    },
+    {
+      "name": "delta-win.json",
+      "bytes": 580,
+      "sha256": "cb4912a97ca585c8ccd95fd27dba3273defa528a4131827d24d87447d679a8d7"
+    },
+    {
+      "name": "latest.yml",
+      "bytes": 379,
+      "sha256": "012e95e778600bea6107f3ce400002bd2ba385a40cebfc8428a27b3260d45cae"
+    }
+  ]
+}
