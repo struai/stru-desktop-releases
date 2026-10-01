@@ -1,0 +1,21 @@
+{
+  "version": "0.2.220-beta.1",
+  "channel": "beta",
+  "files": [
+    {
+      "name": "Stru-AI-Desktop-Client-Setup-0.2.220-beta.1.exe",
+      "bytes": 212365384,
+      "sha256": "55cd71dc6bf8e854121bdd900441397b0b453da093048a8fe862517a6f398ff1"
+    },
+    {
+      "name": "Stru-AI-Desktop-Client-Setup-0.2.220-beta.1.exe.blockmap",
+      "bytes": 222730,
+      "sha256": "1927ba48b5ab89062e98f6297ad82fd34f859909c6c4faca50ce5c211c9aa661"
+    },
+    {
+      "name": "latest.yml",
+      "bytes": 400,
+      "sha256": "36f38a5a6ccfd2c961d6f933c90c6fc46f640463cdaad8e40d321cf6cb8b01a1"
+    }
+  ]
+}
